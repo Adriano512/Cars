@@ -1,4 +1,4 @@
-package entity;
+package com.example.cars;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
